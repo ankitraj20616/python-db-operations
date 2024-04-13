@@ -4,7 +4,7 @@ This project is consist of python curd operation with database (MySQL)
 
 ## Task
 - Create Python Project following the best practices
-- Structure
+- Structure of project given below :
   * Operations
     - doc
         - sql file
